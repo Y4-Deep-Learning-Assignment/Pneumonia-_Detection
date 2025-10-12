@@ -9,3 +9,6 @@
 
 📂 **Goal:**  
 Develop and evaluate **deep learning models** for detecting Pneumonia from **Chest X-Ray images**.  
+
+**Dataset**
+- Kaggle : Chest X-Ray Images (Pneumonia) Dataset
